@@ -1,4 +1,5 @@
 // Add your functions here
+<<<<<<< HEAD
 // function map(array, function(a){ return a.map(array) }) ;
 // map(function(currentValue) { ... })
 // map(function(a) callbackFn(currentValue) { currentValue.map(a) })
@@ -18,3 +19,6 @@ function reduce(arr, cb, start=0) {
 
     return r;
 } 
+=======
+function map(array, function(a){ return a.map(array) }) //
+>>>>>>> a81912f6ad35a342354ed6c8c4a8c5cc576de3ae
